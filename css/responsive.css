@@ -1,0 +1,441 @@
+@media (max-width: 1180px) {
+    .firstMainSocial {
+        display: none;
+    }
+
+    .dropbtn {
+        display: none;
+    }
+
+    .dropbtn1 {
+        display: none;
+    }
+
+    .forDropdown .forcontact {
+        display: none;
+    }
+
+    .VideoandMessage .onlyMessage {
+        display: none;
+    }
+}
+
+
+@media (max-width: 1400px) {
+    .messagepart .messagepartSpan {
+        display: none;
+    }
+
+    .messagepart .messagepartSection>a {
+        display: none;
+    }
+}
+
+@media (max-width: 1180px) {
+    .nav-menu {
+        position: relative;
+        width: 100%;
+    }
+
+    .nav-menu ul li {
+        position: relative;
+        margin-top: -5px;
+    }
+
+    .nav-menu ul li:hover .dropdown-content {
+        display: block;
+    }
+
+
+}
+
+
+
+@media (min-width: 1180px) {
+    .menu-toggle {
+        display: none;
+    }
+
+}
+
+
+@media (max-width: 1180px) {
+    .imgandtextsssl {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .imgandtextsssl .firstimgg {
+        width: 600px;
+        height: 600px;
+    }
+}
+
+@media (max-width: 900px) {
+    .imgandtextsssl .inleneeimage {
+        width: auto;
+        margin-left: 0;
+    }
+
+    .WhoP {
+        width: auto;
+        margin-left: 0;
+    }
+
+    .forDropdown {
+        display: none;
+    }
+}
+
+@media (max-width: 900px) {
+    .imgandtextsssl .firstimgg {
+        width: auto;
+    }
+}
+
+@media (max-width: 700px) {
+    .greyysection {
+        width: auto;
+    }
+
+    .greyysection div {
+        width: auto;
+        display: none;
+    }
+
+    .GreeyBackgroundCards {
+        width: auto;
+    }
+}
+
+@media (max-width: 500px) {
+    .cards {
+        width: 20%;
+    }
+
+    .TextandVideo {
+        margin-left: 0;
+    }
+
+    .profile-card {
+        display: none;
+    }
+}
+
+
+@media (max-width:1300px) {
+    .GreeyBackgroundCards .greyysection {
+        margin-left: 0;
+    }
+
+    .cardsgrey {
+        margin-left: 0;
+        flex-wrap: wrap;
+    }
+}
+
+@media (max-width:700px) {
+    .GreeyBackgroundCards .htag {
+        width: 100px;
+    }
+
+    .GreeyBackgroundCards .book {
+        padding-left: 0;
+    }
+
+    .specialty-numbers {
+        display: none;
+    }
+}
+
+@media (max-width: 1300px) {
+    .content-container {
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+@media (max-width: 500px) {
+    .content-container .right-section img {
+        display: none;
+    }
+}
+
+@media (max-width: 1200px) {
+    .content-container .left-section {
+        width: 90%;
+    }
+
+    .content-container .right-section {
+        width: 90%;
+    }
+}
+
+
+@media (max-width: 1410px) {
+
+    #slide-5,
+    #slide-4 {
+        display: none;
+    }
+}
+
+@media (max-width: 1350px) {
+    .testimonial-text {
+        width: 100%;
+    }
+
+    .testimonial-box {
+        width: 100%;
+    }
+
+    .abtus1-searchbtn {
+        display: none;
+    }
+}
+
+
+@media (max-width: 900px) {
+    #slide-3 {
+        display: none;
+    }
+}
+
+@media (max-width: 600px) {
+    #slide-2 {
+        display: none;
+    }
+}
+
+
+@media (max-width: 850px) {
+    #card-and-text1 {
+        width: 100%;
+    }
+
+    #card-and-text1 img {
+        width: 100%;
+    }
+
+    #card-and-text2 {
+        width: 100%;
+    }
+
+    #card-and-text2 img {
+        width: 100%;
+    }
+
+    #card-and-text3 {
+        width: 100%;
+    }
+
+    #card-and-text3 img {
+        width: 100%;
+    }
+}
+
+
+@media (max-width: 900px) {
+    .latest-news {
+        width: 100%;
+    }
+}
+
+
+@media (max-width: 600px) {
+    .footer-bottom {
+        display: none;
+    }
+}
+
+
+@media (max-width: 600px) {
+    .imgandtextsssl .imgandtext img {
+        display: none;
+    }
+
+    .imgandtextsssl .imgandtext h1,
+    p {
+        display: none;
+    }
+
+    .SecondMainHome {
+        gap: 3px;
+    }
+}
+
+
+@media (max-width: 750px) {
+    .imgandtextsssl .firstimgg {
+        display: none;
+    }
+}
+
+@media (max-width: 450px) {
+
+    .testimonial .testimonial-text h5,
+    h2 {
+        display: none;
+    }
+
+    .image-item {
+        display: none;
+    }
+
+
+}
+
+
+
+@media (min-width: 1180px) {
+    #logo-forenvato {
+        display: none;
+    }
+
+
+}
+
+
+
+
+
+@media (max-width: 1470px) {
+    .blue-make-abtus1 {
+        display: none;
+    }
+}
+
+@media (max-width: 1300px) {
+    #searchIcon {
+        display: none;
+    }
+}
+
+
+@media (max-width: 1180px) {
+    .forDropdown {
+        gap: 100px;
+        flex-direction: column;
+    }
+
+    .header {
+        display: none;
+    }
+
+}
+
+
+@media (max-width: 370px) {
+    .SecondMainHome img {
+        margin-left: 0;
+    }
+
+
+}
+
+@media (max-width: 400px) {
+    .cards-abtus1 .card {
+        margin-left: 0;
+    }
+
+    .qualification-section {
+        display: none;
+    }
+}
+
+
+@media (max-width: 400px) {
+    .icon-num-text {
+        display: none;
+    }
+}
+
+
+
+@media (max-width: 500px) {
+    .img-and-social {
+        margin-left: 0;
+    }
+
+    ş.footer-container {
+        margin-left: 0;
+        margin-right: 0;
+    }
+}
+
+@media (max-width: 450px) {
+    .img-and-social {
+        display: none;
+    }
+
+    .VideoandMessage .TextandVideo  {
+        margin-left: 0;
+    }
+
+    .GreeyBackgroundCards .htag {
+        width: auto;
+    }
+}
+
+
+
+@media (max-width: 1000px) {
+    .main-content {
+        display: none;
+    }
+}
+
+
+@media screen and (max-width: 768px) {
+    .image-container {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 20px;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .image-container {
+        grid-template-columns: 1fr;
+    }
+}
+
+
+
+
+@media (max-width: 768px) {
+    .portfolio-item {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .portfolio-content {
+        max-width: 100%;
+        margin-right: 0;
+        margin-bottom: 20px;
+    }
+
+    .portfolio-item img {
+        width: 80%;
+    }
+
+    .footer-nav {
+        flex-direction: column;
+    }
+
+    .footer-icons {
+        flex-direction: column;
+    }
+}
+
+
+@media (max-width: 600px) {
+    .cards-and-sidebar-bc {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .img-and-quetsions-bd {
+        display: flex;
+        flex-direction: column;
+    }
+}
